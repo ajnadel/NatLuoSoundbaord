@@ -1,0 +1,32 @@
+{
+	"phrases": [
+		{
+			"phrase": "BOI",
+			"sounds": [ "boi.mp3", "boi2.mp3", "boi3.mp3", "boi4.mp3", "boi5.mp3" ]
+		},
+		{
+			"phrase": "BOI HE BOUTA DO IT",
+			"sounds": [ "boi_he_bouta_do_it.mp3" ]
+		},
+		{
+			"phrase": "DICKS OUT FOR HARAMBE",
+			"sounds": [ "dicks_out_for_harambe.mp3" ]
+		},
+		{
+			"phrase": "HE DID THAT",
+			"sounds": [ "he_did_that.mp3" ]
+		},
+		{
+			"phrase": "O SHIT WADDUP",
+			"sounds": [ "o_shit_waddup.mp3" ]
+		},
+		{
+			"phrase": "UMMM",
+			"sounds": [ "umm.mp3" ]
+		},
+		{
+			"phrase": "CANDY STORE (CLEAN)",
+			"sounds": [ "candy_store_clean.mp3" ]
+		}
+	]
+}
